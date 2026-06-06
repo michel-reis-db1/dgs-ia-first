@@ -1,0 +1,6 @@
+CHROMA_PATH = "./chroma_db"
+COLLECTION_NAME = "novatech_docs"
+MODEL_NAME = "all-MiniLM-L6-v2"
+CHUNK_SIZE_TOKENS = 300
+CHUNK_OVERLAP_SENTENCES = 1
+TOP_K = 5
